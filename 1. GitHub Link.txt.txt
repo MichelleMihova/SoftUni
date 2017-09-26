@@ -1,1 +1,2 @@
 https://github.com/MichelleMihova/SoftUni.git
+This will make a conflict!

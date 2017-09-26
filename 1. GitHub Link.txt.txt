@@ -1,2 +1,6 @@
 https://github.com/MichelleMihova/SoftUni.git
+<<<<<<< HEAD
 This will make a conflict!
+=======
+exercice
+>>>>>>> 5bae84e7007521641d683282682a4be430031049
